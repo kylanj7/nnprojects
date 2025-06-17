@@ -1,5 +1,5 @@
 """grace hopper ecosystem
-grace systems are built around standards certified by Arm to ensure thatdriver, opersting systems, applications and for "just work."
+grace systems are built around standards certified by Arm to ensure that drivers, opersting systems, applications "just work."
 """
 # Compiler Flags: -O3 -mcpu=native 
 # -flto to enable link time optimization
